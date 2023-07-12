@@ -1,9 +1,12 @@
 {
+  "homepage": "https://none159.github.io/MyPortfolio",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
@@ -29,5 +32,13 @@
   "main": "vite.config.js",
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/none159/MyPortfolio.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/none159/MyPortfolio/issues"
+  },
   "description": ""
 }
