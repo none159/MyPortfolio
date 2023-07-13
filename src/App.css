@@ -652,7 +652,7 @@ footer .footer-container .socials img:hover {
   transform: scale(1.1);
 }
 
-@media (max-width:1250px) {
+@media (max-width:1000px) {
   .hero-sec .hero-container .full-intro {
     display: grid;
     place-items: center;
@@ -665,7 +665,7 @@ footer .footer-container .socials img:hover {
   }
 }
 
-@media (max-width:1000px) {
+@media (max-width:800px) {
   .hero-sec .hero-container .projects .projects-container {
     display: grid;
     place-content: center;
