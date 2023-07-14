@@ -125,7 +125,7 @@ nav {
   position: relative;
   gap: 5vh;
   align-items: center;
-  width: 95%;
+  width: 70%;
   padding: 20px;
   top: 750px;
   background-color: #22201ec0;
@@ -665,7 +665,7 @@ footer .footer-container .socials img:hover {
   }
 }
 
-@media (max-width:900px) {
+@media (max-width:1000px) {
   .hero-sec .hero-container .projects .projects-container {
     display: grid;
     place-content: center;
