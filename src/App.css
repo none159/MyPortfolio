@@ -123,9 +123,8 @@ nav {
 .hero-sec .hero-container .full-intro {
   display: flex;
   position: relative;
-  gap: 5vh;
   align-items: center;
-  width: 80%;
+  width: 100%;
   padding: 20px;
   top: 750px;
   background-color: #22201ec0;
@@ -141,7 +140,7 @@ nav {
   height: 600px;
   width: 600px;
   border-radius: .3em;
-  margin: 30px;
+  margin: 10px;
 }
 
 .hero-sec .hero-container .full-intro .about .about-header h2 {
@@ -230,7 +229,7 @@ nav {
   place-items: center;
   width: 300px;
   padding: 70px 30px 70px 30px;
-  height: 250px;
+  height: 350px;
   margin: 0 auto;
   border-radius: .5em;
   box-shadow: 0 0 15px black;
@@ -409,7 +408,7 @@ nav {
 
 .hero-sec .hero-container .contacts {
   position: relative;
-  top: 1000px;
+  top: 1200px;
   display: grid;
   place-items: center;
   text-align: center;
