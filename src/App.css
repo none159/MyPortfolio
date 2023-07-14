@@ -409,7 +409,7 @@ nav {
 
 .hero-sec .hero-container .contacts {
   position: relative;
-  top: 1200px;
+  top: 1000px;
   display: grid;
   place-items: center;
   text-align: center;
