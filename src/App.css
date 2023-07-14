@@ -125,7 +125,7 @@ nav {
   position: relative;
   gap: 5vh;
   align-items: center;
-  width: 100%;
+  width: 95%;
   padding: 20px;
   top: 750px;
   background-color: #22201ec0;
@@ -138,8 +138,8 @@ nav {
 }
 
 .hero-sec .hero-container .full-intro .bodyimg-intro img {
-  height: 700px;
-  width: 700px;
+  height: 600px;
+  width: 600px;
   border-radius: .3em;
   margin: 30px;
 }
@@ -216,7 +216,7 @@ nav {
   top: 900px;
   justify-content: space-between;
   align-items: center;
-  width: 100%;
+  width: 95%;
 
 
 }
@@ -228,7 +228,7 @@ nav {
   text-align: center;
   line-height: 1.7em;
   place-items: center;
-  width: 400px;
+  width: 300px;
   padding: 70px 30px 70px 30px;
   height: 250px;
   margin: 0 auto;
@@ -409,7 +409,7 @@ nav {
 
 .hero-sec .hero-container .contacts {
   position: relative;
-  top: 1400px;
+  top: 1200px;
   display: grid;
   place-items: center;
   text-align: center;
@@ -652,7 +652,7 @@ footer .footer-container .socials img:hover {
   transform: scale(1.1);
 }
 
-@media (max-width:1000px) {
+@media (max-width:1150px) {
   .hero-sec .hero-container .full-intro {
     display: grid;
     place-items: center;
@@ -665,7 +665,7 @@ footer .footer-container .socials img:hover {
   }
 }
 
-@media (max-width:800px) {
+@media (max-width:900px) {
   .hero-sec .hero-container .projects .projects-container {
     display: grid;
     place-content: center;
