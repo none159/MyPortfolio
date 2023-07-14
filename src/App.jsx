@@ -15,9 +15,9 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/myportfolio/" element={<Page />} />
-          <Route path="/myportfolio/discord" element={<Discord />} />
-          <Route path="/myportfolio/manga" element={<Manga />} />
-          <Route path="/myportfolio/musicplayer" element={<Musicplayer />} />
+          <Route path="/discord" element={<Discord />} />
+          <Route path="/manga" element={<Manga />} />
+          <Route path="/musicplayer" element={<Musicplayer />} />
 
         </Routes>
       </BrowserRouter>
