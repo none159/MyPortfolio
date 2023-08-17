@@ -104,8 +104,8 @@ const Hero = (props) => {
                     <div>
                         <h2 className="contact-title">Contacts</h2>
                         <div className="contact-information">
-                            <h3><span style={{ color: "white", textDecoration: "none" }}>*Email : </span>email@email.com</h3>
-                            <h3><span style={{ color: "white", textDecoration: "none" }}>*Number : </span>04243243234</h3>
+                            <h3><span style={{ color: "white", textDecoration: "none" }}>*Email : </span>yassinemouhib684@gmail.com</h3>
+                            <h3><span style={{ color: "white", textDecoration: "none" }}>*Number : </span>--------------</h3>
                         </div>
                     </div>
                     <h2 className="contactform-title">Write Your Message Here : </h2>

@@ -1,7 +1,10 @@
-import React from "react";
+import React, { useLayoutEffect } from "react";
 import { Link } from 'react-router-dom'
 
 const Discord = () => {
+    useLayoutEffect(() => {
+        window.scrollTo(0, 0)
+    });
     return (
         <section>
             <div className="details-container">
